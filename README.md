@@ -16,3 +16,7 @@ This project functions as an image sharing website. It responds to different res
 
 This webpage is deployed to GitHub Pages
 [Spots](https://jsrf610.github.io/se_project_spots/)
+
+##Link to screen recording
+
+[Screen Recording](https://drive.google.com/file/d/1JzGN4UxSVt60AqX9unJKq0d0XSuJtAr_/view?usp=drive_link)
