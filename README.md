@@ -19,4 +19,4 @@ This webpage is deployed to GitHub Pages
 
 ##Link to screen recording
 
-[Screen Recording](https://drive.google.com/file/d/1JzGN4UxSVt60AqX9unJKq0d0XSuJtAr_/view?usp=drive_link)
+[Screen Recording](https://drive.google.com/file/d/1JzGN4UxSVt60AqX9unJKq0d0XSuJtAr_/view?usp=sharing)
